@@ -26,9 +26,9 @@ def retrieve_element_from_index(students, index_number)
   students[index_number]
 end
 
-def retrieve_first_element_from_array(arra)
-  
-end
+def retrieve_first_element_from_array(students)
+  students[0]
+  end
 
 def retrieve_last_element_from_array(array)
   
