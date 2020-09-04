@@ -30,6 +30,6 @@ def retrieve_first_element_from_array(students)
   students[0]
   end
 
-def retrieve_last_element_from_array(array)
+def retrieve_last_element_from_array(students)
   students[-1]
 end
